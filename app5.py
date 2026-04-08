@@ -128,3 +128,5 @@ with col_moves:
 
 # --- FOOTER ---
 st.markdown("<br><p style='text-align: center; color: #7d7a77;'>Chess.com Catalyst Interface | Unit III Project</p>", unsafe_allow_html=True)
+
+# Type "streamlit run app5.py" after a series of lines are shown in the terminal without any errors to run the file.
